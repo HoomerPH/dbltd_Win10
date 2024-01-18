@@ -8,9 +8,18 @@ Debloated Windows 10 with Core Windows 10 features. (Windows Firewall and Anti V
 
 Special Features:
 Automatic Windows Update ? NEVER
+
+
 Windows Update ? DISABLED
+
+
 Fast Startup ? DISABLED
+
+
 Updating Windows quality of life does not includes driver updates. (Pain in the ass)
+
+
+
 
 Uninstalled SFTWRS:
 
@@ -31,6 +40,7 @@ XBOX Game UI
 
 and others. 
 
+Unfortunately removing Microsoft Edge bricks the ISO, so sadly, magsasawa kayo sa pagmumukha ni Edge
 
 CORE FEATURES:
 
@@ -41,6 +51,7 @@ Stock Localization
 Stock Drivers
 Stock Hardware Support
 Stock System Apps
+Stock Registry
 
 Registry NOT CONFIGURED.
 Windows Services NOT CONFIGURED
